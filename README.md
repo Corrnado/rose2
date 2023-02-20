@@ -8,7 +8,7 @@ Install
 =======
 
 ```
-pip install -e git+https://github.com/linlabbcm/rose2.git#egg=rose2
+pip install -e git+https://github.com/corrnado/rose2.git#egg=rose2
 ```
 
 Dependencies
