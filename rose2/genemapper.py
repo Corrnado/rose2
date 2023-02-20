@@ -38,7 +38,7 @@ import subprocess
 import sys
 
 from collections import defaultdict
-from string import join
+# from string import join
 
 from . import utils
 
